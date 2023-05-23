@@ -11,3 +11,68 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.App {
+  text-align: center;
+  margin-top: 2rem;
+  background-image: url(type.jpg);
+  background-size: cover;
+  height: 100vh;
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  color: rgb(68, 116, 137);
+  padding: 5px;
+
+}
+
+h1 {
+  font-size: 2rem;
+  margin-bottom: 1rem;
+}
+
+.keyboard {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 2rem;
+}
+
+.untyped-key {
+  font-size: 2rem;
+  padding: 0.5rem;
+  margin: 0.25rem;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.typed-key {
+  font-size: 2rem;
+  padding: 0.5rem;
+  margin: 0.25rem;
+  border: 1px solid #333;
+  border-radius: 4px;
+  background-color: #eee;
+}
+
+.next-key {
+  font-size: 2rem;
+  padding: 0.5rem;
+  margin: 0.25rem;
+  border: 1px solid #333;
+  border-radius: 4px;
+  background-color: #ead3e6;
+}
+
+input {
+  font-size: 2rem;
+  padding: 0.5rem;
+  margin-bottom: 2rem;
+}
+
+.timer {
+  margin-bottom: 1rem;
+}
+
+.accuracy {
+  font-size: 1.5rem;
+}
+.type-color{
+  color: rgb(131, 35, 94);
+}
