@@ -1,3 +1,11 @@
+#Home page which shows input and the keywords to type
+
+![type2](https://github.com/dineshbell/type-writer/assets/121668531/87e87ef1-1728-4e12-9c7e-db8b14c8298a)
+
+# Page which shows TIME, KEYS PER MINUTE, ACCURACY
+
+![type1](https://github.com/dineshbell/type-writer/assets/121668531/4698c516-5ae8-41c8-ba10-a84546bfd336)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -5,6 +13,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Available Scripts
 
 In the project directory, you can run:
+
+
 
 ### `npm start`
 
